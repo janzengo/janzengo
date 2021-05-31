@@ -1,30 +1,23 @@
-<h1 align="center">Hello 👋🏻, I'm HVOA (as Hwoa)</h1>
-<h3 align="center">Front-End Developer, translator from Indonesia, Administrator & Co-Founder at DDX, Moderator on Brainly.co.id,  Wikipedia Indonesia's Contributor</h3>
+<h1 align="center">Hello 👋🏻, I'm Janzen! </h1>
+<h3 align="center">Front-End Developer, Senior Web Developer @ AGGTEDeck.com, Former Moderator at Brainly.ph</h3>
 
 
 
-- 🇮🇩 Translator from **Bandung, Indonesia**
 
-- 🌎 Find me on [Discord](https://discord.com/users/744822067740016640), [Brainly](https://brainly.co.id/profil/Lyden-14881941), [Instagram](https://instagram.com/lydenzx)
+- 🌎 Find me on [Discord](https://discord.com/users/744822067740016640), [Brainly](https://brainly.ph/app/profile/10618746), [Facebook](https://www.facebook.com/janzen.go.7/), [LinkedIn](https://www.linkedin.com/in/janzengo/)
 
-- 🛡️ Administrator & Co-Founder at [DDX](https://ddx.my.id)
+- 🛡️ Administrator & Web Developer at [AGGTEDeck Composites](https://www.aggtedeck.com)
 
-- ⚡ Fun fact **Nothing ;)**
+- ⚡ Fun fact: **I can sing and I have a Youtube Channel (https://www.youtube.com/channel/UCLJZ-_tfJ006qAGNxdM9hYA)**
 
-- 📫 How to reach me [Instagram](https://instagram.com/lydenzx) , [Twitter](https://twitter.com/HYOA_Dev), [Discord](https://discord.com/users/744822067740016640)
-
-- ⚜ [Wikipedia Indonesia](https://id.wikipedia.org)'s Contributor
 
 Currently working at:
 
--  [Brainly](https://brainly.co.id/) as Moderator
--  [PreMiD](https://premid.app/) as Proofreader & Translator, S/A (Volunteer)
+-  [Brainly](https://www.brainly.ph) as User
+-  [AGGTEDeck](https://www.aggtedeck.com) as Proofreader & Translator, S/A (Volunteer)
 -  [DDX](https://ddx.my.id) as Administrator & Co-Founder
 -  [IZ*ONE](https://discord.com/oauth2/authorize?client_id=744876991148326952&permissions=8&scope=bot) (Discord bot project)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=HVOA) ![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/744822067740016640?simple=true&logo=discord&logoColor=white&color=7289da) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/744822067740016640&color=43B581) 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=njkuct5871gbgdk36pcpddl1j&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=njkuct5871gbgdk36pcpddl1j&redirect=true)
 
-[![Discord](https://discord.c99.nl/widget/theme-2/744822067740016640.png)](https://discord.com/users/744822067740016640)
