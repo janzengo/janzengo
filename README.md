@@ -8,15 +8,15 @@
 
 - 🛡️ Administrator & Web Developer at [AGGTEDeck Composites](https://www.aggtedeck.com)
 
-- ⚡ Fun fact: **I can sing and I have a [Youtube Channel](https://www.youtube.com/channel/UCLJZ-_tfJ006qAGNxdM9hYA)** <i class="fa fa-youtube-play" aria-hidden="true"></i>
+- ⚡ Fun fact: **I can sing and I have a [Youtube Channel](https://www.youtube.com/channel/UCLJZ-_tfJ006qAGNxdM9hYA)**
 
 
 Currently working at:
 
 -  [Brainly](https://www.brainly.ph) as User
--  [AGGTEDeck](https://www.aggtedeck.com) as Proofreader & Translator, S/A (Volunteer)
--  [DDX](https://ddx.my.id) as Administrator & Co-Founder
--  [IZ*ONE](https://discord.com/oauth2/authorize?client_id=744876991148326952&permissions=8&scope=bot) (Discord bot project)
+-  [AGGTEDeck](https://www.aggtedeck.com) as Network Administrator, Web Developer
+-  [Youtube](https://www.youtube.com/channel/UCLJZ-_tfJ006qAGNxdM9hYA) as Content Creator
+
 
 
 
