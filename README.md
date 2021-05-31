@@ -8,7 +8,7 @@
 
 - 🛡️ Administrator & Web Developer at [AGGTEDeck Composites](https://www.aggtedeck.com)
 
-- ⚡ Fun fact: **I can sing and I have a [Youtube Channel](https://www.youtube.com/channel/UCLJZ-_tfJ006qAGNxdM9hYA)**
+- ⚡ Fun fact: **I can sing and I have a [Youtube Channel](https://www.youtube.com/channel/UCLJZ-_tfJ006qAGNxdM9hYA)** <i class="fa fa-youtube-play" aria-hidden="true"></i>
 
 
 Currently working at:
