@@ -4,7 +4,7 @@
 
 
 
-- [Facebook](https://www.facebook.com/janzen.go.7/), [LinkedIn](https://www.linkedin.com/in/janzengo/)
+- Find me at [Facebook](https://www.facebook.com/janzen.go.7/), [LinkedIn](https://www.linkedin.com/in/janzengo/), [Instagram](https://www.instagram.com/jnzngo/)
 
 - 🛡️ Administrator & Web Developer at [AGGTEDeck Composites](https://www.aggtedeck.com)
 
