@@ -13,7 +13,6 @@
 
 Currently working at:
 
--  [Brainly](https://www.brainly.ph) as User
 -  [AGGTEDeck](https://www.aggtedeck.com) as Network Administrator, Web Developer
 -  [Youtube](https://www.youtube.com/channel/UCLJZ-_tfJ006qAGNxdM9hYA) as Content Creator
 
