@@ -4,7 +4,7 @@
 
 
 
-- 🌎 Find me on [Discord](https://discord.com/users/744822067740016640), [Brainly](https://brainly.ph/app/profile/10618746), [Facebook](https://www.facebook.com/janzen.go.7/), [LinkedIn](https://www.linkedin.com/in/janzengo/)
+- [Facebook](https://www.facebook.com/janzen.go.7/), [LinkedIn](https://www.linkedin.com/in/janzengo/)
 
 - 🛡️ Administrator & Web Developer at [AGGTEDeck Composites](https://www.aggtedeck.com)
 
