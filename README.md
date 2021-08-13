@@ -1,20 +1,17 @@
 <h1 align="center">Hello 👋🏻, I'm Janzen! </h1>
-<h3 align="center">Front-End Developer, Senior Web Developer @ AGGTEDeck.com, Former Moderator at Brainly.ph</h3>
+<h3 align="center">Front-End Developer, Senior Web Developer @ AGGTEDeck.com</h3>
 
 
 
 
-- Find me at [Facebook](https://www.facebook.com/janzen.go.7/), [LinkedIn](https://www.linkedin.com/in/janzengo/), [Instagram](https://www.instagram.com/jnzngo/)
+- [LinkedIn](https://www.linkedin.com/in/janzengo/), [Instagram](https://www.instagram.com/jnzngo/)
 
 - 🛡️ Administrator & Web Developer at [AGGTEDeck Composites](https://www.aggtedeck.com)
-
-- ⚡ Fun fact: **I can sing and I have a [Youtube Channel](https://www.youtube.com/channel/UCLJZ-_tfJ006qAGNxdM9hYA)**
 
 
 Currently working at:
 
 -  [AGGTEDeck](https://www.aggtedeck.com) as Network Administrator, Web Developer
--  [Youtube](https://www.youtube.com/channel/UCLJZ-_tfJ006qAGNxdM9hYA) as Content Creator
 
 
 
