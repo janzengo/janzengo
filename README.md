@@ -4,7 +4,7 @@
 
 
 
-- [LinkedIn](https://www.linkedin.com/in/janzengo/), [Instagram](https://www.instagram.com/jnzngo/)
+- [LinkedIn](https://www.linkedin.com/in/janzengo/)
 
 - 🛡️ Administrator & Web Developer at [AGGTEDeck Composites](https://www.aggtedeck.com)
 
