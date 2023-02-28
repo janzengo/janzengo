@@ -20,7 +20,7 @@ A self-taught, aspiring FrontEnd Web Developer from the Philippines! I'm fond of
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <!-- Light Mode -->
-<div align="center"> 
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=janzengo&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=slateorange#gh-light-mode-only" alt="Janzen Go's Language stats" />
 </a>
@@ -35,9 +35,8 @@ A self-taught, aspiring FrontEnd Web Developer from the Philippines! I'm fond of
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=janzengo&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=slateorange&bg_color=000000#gh-dark-mode-only" alt="Janzen Go's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=janzengo&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=slateorange&bg_color=000000#gh-dark-mode-only" alt="Janzen Go's Github stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=janzengo&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=slateorange &bg_color=000000#gh-dark-mode-only" alt="Janzen Go's Github stats" />
 </a>
-</div>
 
 <br/>
 
