@@ -47,11 +47,11 @@ A self-taught, aspiring FrontEnd Web Developer from the Philippines! I'm fond of
 &nbsp;
 <!-- Social button 2 -->
 <!-- Light Mode -->
-<a href="https://facebook.com/intent/follow?screen_name=janzngo#gh-light-mode-only">
+<a href="https://facebook.com/janzngo#gh-light-mode-only">
 <img src="https://img.shields.io/badge/follow-%40janzengo-1DA1F2?style=for-the-badge&logo=facebook&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
 <!-- Dark Mode -->
-<a href="https://facebook.com/intent/follow?screen_name=janzngo#gh-dark-mode-only">
+<a href="https://facebook.com/janzngo#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/follow-%40janzengo-1DA1F2?style=for-the-badge&logo=facebook&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 &nbsp;
