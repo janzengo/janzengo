@@ -39,6 +39,8 @@ A self-taught, aspiring FrontEnd Web Developer from the Philippines! I'm fond of
 </a>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=janzengo&theme=slateorange)](https://git.io/streak-stats)
+
 <br/>
 
 <!-- Social button 1 -->
