@@ -12,8 +12,6 @@
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=janzengo&style=flat-square&color=blue" alt="Profile Views"/>
-  
-[![Github](https://img.shields.io/github/followers/janzengo?label=Follow&style=social)](https://github.com/janzengo)
 </div>
 
 </div>
@@ -28,7 +26,7 @@ A self-taught, aspiring FrontEnd Web Developer from the Philippines! I'm fond of
 
 - 💬 I'm currently a college student at a polytechnic college pursuing a degree in Bachelor of Science in Information Technology
 
-- 💡 Besides studies in college, I'm also taking Harvard's CS50W
+- 💡 Besides my studies in college, I'm also taking Harvard's CS50W
 
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
