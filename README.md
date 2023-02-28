@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Janzen
 
 [![Github](https://img.shields.io/github/followers/janzengo?label=Follow&style=social)](https://github.com/janzengo)
-[![Facebppl](https://img.shields.io/facebook/followers/janzngo?label=Follow&style=social)](https://facebook.com/janzngo)
+[![Facebook](https://img.shields.io/facebook/followers/janzngo?label=Follow&style=social)](https://facebook.com/janzngo)
 
 A self-taught, aspiring FrontEnd Web Developer from the Philippines! I'm fond of manipualting open-source projects.
 
