@@ -1,5 +1,7 @@
 <p align="center"><a href="https://github.com/janzengo"><img width="100%" alt="Howdy! I'm Janzen. I do FrontEnd and Graphic Design" src="./assets/banner.png" /></a></p>
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+
+https://placehold.it/150/ffffff/ff0000?text=hello
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
