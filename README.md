@@ -17,14 +17,14 @@
 </div>
 
 
-A self-taught, aspiring FrontEnd Web Developer from the Philippines! I'm fond of manipualting open-source projects.
+A self-taught, aspiring FrontEnd Web Developer from the Philippines! I'm fond of playing with open-source projects and experimenting with them for the purpose of learning.
 
 **About me**
 - 💼 FrontEnd Engineer at [AGGTEDeck](http://aggtedeck.com/)
 
 - ❤️ I am fond of writing C++ codes in [Kattis](https://open.kattis.com/countries/PHL) and is currently the Top 7 user in the Philippines
 
-- 💬 I'm currently a college student at a polytechnic college pursuing a degree in Bachelor of Science in Information Technology
+- 💬 I'm currently a college student at a [polytechnic college](btech.edu.ph) pursuing a degree in Bachelor of Science in Information Technology
 
 - 💡 Besides my studies in college, I'm also taking Harvard's CS50W
 
