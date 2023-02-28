@@ -64,7 +64,7 @@ Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! 
 
 <!-- Social button 1 -->
 <!-- Light Mode -->
-<div>
+<div align="right">
 &nbsp;
 <!-- Social button 2 -->
 <!-- Light Mode -->
