@@ -1,4 +1,4 @@
-### Hey 👋, I'm Rick
+### Hey 👋, I'm Janzen
 
 [![Github](https://img.shields.io/github/followers/janzengo?label=Follow&style=social)](https://github.com/janzengo)
 
@@ -33,11 +33,11 @@ I'm an aspiring FrontEnd Web Developer from the Philippines! I'm fond of manipua
 <!-- Social button 2 -->
 <!-- Light Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=janzngo#gh-light-mode-only">
-<img src="https://img.shields.io/badge/follow-%40rick_staa-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/badge/follow-%40janzengo-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
 <!-- Dark Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=janzngo#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/follow-%40rick_staa-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/badge/follow-%40janzengo-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 &nbsp;
 <!-- Social button 3 -->
