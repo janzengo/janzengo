@@ -10,10 +10,12 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=janzengo&style=flat-square&color=blue" alt="Profile Views"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=janzengo&style=flat-square&color=blue" alt="Profile Views"/>
   
 [![Github](https://img.shields.io/github/followers/janzengo?label=Follow&style=social)](https://github.com/janzengo)
+</div>
+
 </div>
 
 
