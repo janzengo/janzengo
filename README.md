@@ -78,11 +78,11 @@ Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! 
 &nbsp;
 <!-- Social button 3 -->
 <!-- Light Mode -->
-<a href="https://www.linkedin.com/in/janzengo">
+<a href="https://www.linkedin.com/in/janzengo#gh-light-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 </a>
 <!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/janzengo">
+<a href="https://www.linkedin.com/in/janzengo#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
 
