@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-</div>
-### Hey 👋, I'm Janzen
-
+<img src="https://komarev.com/ghpvc/?username=janzengo&style=flat-square&color=blue" alt=""/>
 [![Github](https://img.shields.io/github/followers/janzengo?label=Follow&style=social)](https://github.com/janzengo)
+</div>
+
 
 A self-taught, aspiring FrontEnd Web Developer from the Philippines! I'm fond of manipualting open-source projects.
 
