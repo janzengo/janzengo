@@ -1,6 +1,12 @@
 <p align="center"><a href="https://github.com/janzengo"><img width="100%" alt="Howdy! I'm Janzen. I do FrontEnd and Graphic Design" src="./assets/banner.png" /></a></p>
 
-https://placehold.it/150/ffffff/ff0000?text=hello
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
