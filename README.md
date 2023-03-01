@@ -41,10 +41,10 @@ Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! 
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/janzengo#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=janzengo&layout=compact&langs_count=10&role=owner,collaborator&theme=slateorange&bg_color=ffffff#gh-light-mode-only" alt="Janzen's Language stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=janzengo&layout=compact&langs_count=10&role=owner,collaborator&theme=default&bg_color=ffffff#gh-light-mode-only" alt="Janzen's Language stats" />
 </a>
 <a href="https://github.com/janzengo#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=janzengo&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=slateorange&bg_color=ffffff#gh-light-mode-only" alt="Janzen's Github stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=janzengo&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default&bg_color=ffffff#gh-light-mode-only" alt="Janzen's Github stats" />
 </a>
 </div>
 
