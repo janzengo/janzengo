@@ -12,8 +12,6 @@
   <a href="https://twitter.com/jnzngo">
     <img src="https://img.shields.io/badge/Twitter-orange?style=for-the-badge&logo=twitter&logoColor=skyblue" alt="Twitter Badge"/>
   </a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/janzengo-profile-views"/></a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=janzengo&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
