@@ -59,7 +59,7 @@ Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! 
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=janzengo&theme=slateorange&background=000000#gh-dark-mode-only)](https://git.io/streak-stats)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=janzengo&theme=slateorange&background=000000#gh-light-mode-only)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=janzengo&theme=slateorange&background=FFFFFF#gh-light-mode-only)](https://git.io/streak-stats)
 </div>
 <br/>
 
