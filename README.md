@@ -89,7 +89,9 @@ Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! 
 <a href="https://www.linkedin.com/in/janzengo#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
-  
+ 
+  <!--
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ygi1gf5nfi658szq82pan3ydl)](https://open.spotify.com/user/ygi1gf5nfi658szq82pan3ydl)
+-->
 
 </div>
