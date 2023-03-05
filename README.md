@@ -18,6 +18,7 @@
 
 </div>
 
+
 Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! I'm fond of playing with open-source projects and experimenting with them for the purpose of learning.
 
 **About me**
