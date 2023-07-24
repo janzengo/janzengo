@@ -24,8 +24,6 @@ Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! 
 **About me**
 - 💼 FrontEnd and BackEnd Engineer at [AGGTEDeck](http://aggtedeck.com/)
 
-- ❤️ I am fond of writing C++ codes in [Kattis](https://open.kattis.com/countries/PHL) and is currently the Top 7 user in the Philippines
-
 - 💬 I'm currently a college student at a [polytechnic college](btech.edu.ph) pursuing a degree in Bachelor of Science in Information Technology
 
 - 💡 Besides my studies in college, I'm also taking Harvard's CS50W
