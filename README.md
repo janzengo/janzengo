@@ -6,11 +6,8 @@
   <a href="https://www.linkedin.com/in/janzengo/">
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/janzngo/">
+  <a href="https://www.instagram.com/janzengogrowglow/">
     <img src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/jnzngo">
-    <img src="https://img.shields.io/badge/Twitter-orange?style=for-the-badge&logo=twitter&logoColor=skyblue" alt="Twitter Badge"/>
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=janzengo&style=flat-square&color=blue" alt="Profile Views"/>
@@ -40,12 +37,12 @@ Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! 
 &nbsp;
 <!-- Social button 2 -->
 <!-- Light Mode -->
-<a href="https://facebook.com/janzngo#gh-light-mode-only">
-<img src="https://img.shields.io/badge/follow-%40janzengo-1DA1F2?style=for-the-badge&logo=facebook&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
+<a href="https://facebook.com/janzengogrowglow#gh-light-mode-only">
+<img src="https://img.shields.io/badge/follow-%40janzengo-1DA1F2?style=for-the-badge&logo=instagram&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
 <!-- Dark Mode -->
-<a href="https://facebook.com/janzngo#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/follow-%40janzengo-1DA1F2?style=for-the-badge&logo=facebook&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+<a href="https://facebook.com/janzengogrowglow#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/follow-%40janzengo-1DA1F2?style=for-the-badge&logo=instagram&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 &nbsp;
 <!-- Social button 3 -->
@@ -57,9 +54,7 @@ Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! 
 <a href="https://www.linkedin.com/in/janzengo#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
- 
-  <!--
+
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ygi1gf5nfi658szq82pan3ydl)](https://open.spotify.com/user/ygi1gf5nfi658szq82pan3ydl)
--->
 
 </div>
