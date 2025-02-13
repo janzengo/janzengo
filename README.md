@@ -4,13 +4,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/janzengo/">
-    <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-73d673?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/janzengogrowglow/">
-    <img src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-73d673?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=janzengo&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 </div>
@@ -19,11 +18,11 @@
 Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! I'm fond of playing with open-source projects and experimenting with them for the purpose of learning.
 
 **About me**
-- 💼 FrontEnd and BackEnd Engineer at [AGGTEDeck](http://aggtedeck.com/)
+- 💼 Full Stack Lead Developer at [AGGTEDeck](http://aggtedeck.com/)
 
 - 💬 I'm currently a college student at a [polytechnic college](https://btech.edu.ph) pursuing a degree in Bachelor of Science in Information Technology
 
-- 💡 Besides my studies in college, I'm also taking Harvard's CS50W
+- 💡 I wanted to expand my skills by contributing to open-source projects!
 
 - 👀 I hate light mode themes!
  
@@ -38,11 +37,11 @@ Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! 
 <!-- Social button 2 -->
 <!-- Light Mode -->
 <a href="https://facebook.com/janzengogrowglow#gh-light-mode-only">
-<img src="https://img.shields.io/badge/follow-%40janzengo-1DA1F2?style=for-the-badge&logo=instagram&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/badge/follow-%40janzengo-bbdabb?style=for-the-badge&logo=instagram&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
 <!-- Dark Mode -->
 <a href="https://facebook.com/janzengogrowglow#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/follow-%40janzengo-1DA1F2?style=for-the-badge&logo=instagram&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/badge/follow-%40janzengo-bbdabb?style=for-the-badge&logo=instagram&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 &nbsp;
 <!-- Social button 3 -->
