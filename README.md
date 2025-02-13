@@ -1,21 +1,19 @@
 <p align="center"><a href="https://github.com/janzengo"><img width="100%" alt="Howdy! I'm Janzen. I do FrontEnd and Graphic Design" src="./assets/banner.png" /></a></p>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/janzengo/">
-    <img src="https://img.shields.io/badge/LinkedIn-73d673?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7b9581?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/janzengogrowglow/">
-    <img src="https://img.shields.io/badge/Instagram-73d673?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-7b9581?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
   </a>
   <br/>
 </div>
-
 </div>
 
 
-Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! I'm fond of playing with open-source projects and experimenting with them for the purpose of learning.
+Howdy! I'm a self-taught, aspiring Full Stack Developer from the Philippines! I'm fond of playing with open-source projects and experimenting with them for the purpose of learning.
 
 **About me**
 - 💼 Full Stack Lead Developer at [AGGTEDeck](http://aggtedeck.com/)
@@ -25,8 +23,11 @@ Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! 
 - 💡 I wanted to expand my skills by contributing to open-source projects!
 
 - 👀 I hate light mode themes!
- 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,ae,ps,figma" />
+  </a>
+</p>
 <hr/>
 
 <!-- Social button 1 -->
