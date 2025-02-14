@@ -23,19 +23,25 @@ Howdy! I'm a self-taught, aspiring Full Stack Developer from the Philippines! I'
 - 💡 I wanted to expand my skills by contributing to open-source projects!
 
 - 👀 I hate light mode themes!
+
+**🚀 Tech Stack**
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,ae,ps,figma" />
   </a>
 </p>
-<hr/>
 
-<!-- Social button 1 -->
-<!-- Light Mode -->
+**💻 Current Focus**
+- 🌱 Learning and expanding knowledge in Full Stack Development
+- 🤝 Open to collaborating on open-source projects
+- 🎯 Goals for 2025: Contribute more to open source and build impactful projects
+
+**📫 How to Reach Me**
 <div align="center">
   <p>Let's get to know more about each other! Here are some of my socials.</p>
 &nbsp;
-<!-- Social button 2 -->
+<!-- Social button 1 -->
 <!-- Light Mode -->
 <a href="https://facebook.com/janzengogrowglow#gh-light-mode-only">
 <img src="https://img.shields.io/badge/follow-%40janzengo-bbdabb?style=for-the-badge&logo=instagram&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
