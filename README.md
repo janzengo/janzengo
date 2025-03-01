@@ -28,7 +28,7 @@ Howdy! I'm a self-taught, aspiring Full Stack Developer from the Philippines! I'
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,,python,laravel,git,ae,ps,figma,django" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,git,ae,ps,figma,django" />
   </a>
 </p>
 
