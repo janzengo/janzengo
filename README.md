@@ -3,3 +3,5 @@ Independent Facilitator of Practical Web-Layer Integration for revenue-driven mi
 ## Current Focus
 - get gud at programming?
 - force push and pray
+
+𓆝 𓆟 𓆞 𓆝
