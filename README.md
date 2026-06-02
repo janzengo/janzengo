@@ -1,3 +1,2 @@
 ### Current Focus
-- get gud at programming?
-- force push and pray
+- modern web architectures and integrating AI into my development workflow.
