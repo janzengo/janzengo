@@ -28,7 +28,7 @@ I'm particularly interested in the intersection of **development, UI/UX, design,
 * Background in graphic design and UI/UX
 * Exploring AI-assisted development and automation
 * Interested in open-source projects and learning by building
-* Still hate light mode themes!
+* Still hate light mode themes :>
 
 ### Tech Stack
 
