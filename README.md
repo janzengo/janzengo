@@ -4,17 +4,6 @@
   </a>
 </p>
 
-<div id="header" align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/janzengo/">
-      <img src="https://img.shields.io/badge/LinkedIn-7b9581?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/janzengogrowglow/">
-      <img src="https://img.shields.io/badge/Instagram-7b9581?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
-    </a>
-  </div>
-</div>
-
 <br/>
 
 Howdy! I'm **Janzen**, a Full Stack Developer and IT graduate from the Philippines. I enjoy building things, experimenting with new technologies, and turning ideas into practical digital experiences.
